@@ -1,0 +1,9 @@
+{
+	"compilerOptions": {
+		"target": "esnext",
+		"module": "commonjs",
+		"allowSyntheticDefaultImports": true,
+		"experimentalDecorators": true
+	},
+	"exclude": ["dist", "node_modules"]
+}
